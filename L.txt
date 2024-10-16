@@ -1,0 +1,8 @@
+#root
+
+//- Login Page design, CSS & JS code by me.
+
+//- Illustration by Kika Fuenzalida
+//- https://mixkit.co/free-stock-art/left-handed-man-sitting-at-a-table-writing-in-a-notebook-27/
+
+//- Ant Design is the component library used. https://ant.design/
